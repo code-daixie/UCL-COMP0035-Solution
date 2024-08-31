@@ -1,3 +1,3 @@
 # UCL-COMP0035-Solution
 
-## weixin: scs_ryan
+## 微信: scs_ryan
